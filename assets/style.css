@@ -43,6 +43,19 @@ body {
   font-family: var(--font-family); /* Default to Poppins */
 }
 
+.metamorphism-pushed {
+  margin-top: 24px !important;
+  color: #c4c4c4;
+  max-width: fit-content;
+  padding: 18px 15px;
+  border-radius: 6px;
+  background: #23272b;
+  box-shadow: inset 5px 5px 10px #1c1e22, inset -5px -5px 10px #262a2e;
+  transition: 0.4s;
+  font-weight: 400;
+  display: inline-block;
+  margin-right: 8px;
+}
 body {
   background-color: var(--color-dark);
   color: var(--color-light);
