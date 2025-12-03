@@ -568,6 +568,7 @@ ul {
 }
 
 .modal-overlay.open {
+  background: #212428 !important;
   opacity: 1;
   visibility: visible;
 }
